@@ -1,1 +1,1 @@
-# graphsage-_classification
+# graphsage node classification
